@@ -27,7 +27,7 @@ public interface GlobalConstants {
 	public static final String PACKAGE_NAME = "com.android.perl";
 	
 	public static final String PERL_MAIN_SCRIPT_NAME = "l00httpd/00runmeAndroid.pl";
-	public static final String PERL_PROJECT_ZIP_NAME = "l00httpd_da03.c2893.zip";
+	public static final String PERL_PROJECT_ZIP_NAME = "l00httpd_db22.32ce9.zip";
 	
 	public static final String PERL_NICE_NAME = "Perl 5.10.0";
 	public static final String PERL_ZIP_NAME = "perl_r9.zip";
