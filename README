@@ -1,3 +1,20 @@
 Under Apache License 2.0 (please see LICENSE)
 
 Please refer to the project Wiki's for usage at: https://code.google.com/p/perl-android-apk/
+
+Addition of https://github.com/l00g33k/WikiPland by l00g33k@gmail.com
+
+This is a simple project adapted from perl-android-apk to provide the Perl 
+runtime for WikiPland (https://github.com/l00g33k/WikiPland). WikiPland 
+is a Perl based micro web server and wiki engine for the Android devices as
+well as the desktop computer environment. In the expected usage on the 
+Android device, the SL4A and the Perl interpreter should be installed so that 
+updates can simply be fetched from github.com using git commands. However, 
+for quick evaluation this APK delivers the necessary Perl interpreter as well 
+as a snapshot of the WikiPland release into a single APK requiring only a 
+normal APK installation.
+
+Notes:
+1. As with all other non Google Play store APK, you must allow 'Unknown 
+sources' under 'Security'.
+2. This APK is not full tested so some features may not function as expected.
